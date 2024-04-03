@@ -1,16 +1,18 @@
-# **print("Hello World!** :wave:**")**
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&duration=4000&pause=1000&color=70A5FD&vCenter=true&random=false&width=500&separator=%3D&lines=console.log(%22Hello%2C+World!+%F0%9F%91%8B%22);%3Dprint(%22Hello%2C+World!+%F0%9F%91%8B%22)%3Dfmt.Println(%22Hello%2C+World!+%F0%9F%91%8B%22)%3Decho+%22Hello%2C+World!+%F0%9F%91%8B%22%3Dprintln!(%22Hello%2C+World!+%F0%9F%91%8B%22);" alt="Typing SVG" />
+</h1>
 
-### _Português:_
+### Português:
 
-Meu nome é **Leonardo**, sou **engenheiro de controle e automação** e **entusiasta da área de ciência e tecnologia**.
+Meu nome é **Leonardo**, sou **Engenheiro de Controle e Automação** e **Entusiasta da Área de Ciência e Tecnologia**.
 
-Sempre à procura de **aprender** algo **novo**. :rocket:
+Sempre à procura de **Aprender** algo **Novo**. :rocket:
 
-### _English:_
+### English:
 
-My name is **Leonardo**, I am a **control and automation engineer** and a **science and technology enthusiast**.
+My name is **Leonardo**, I am a **Control and Automation Engineer** and a **Science and Technology Enthusiast**.
 
-I'm always looking to **learn** something **new**. :rocket:
+I'm always looking to **Learn** something **New**. :rocket:
 
 <hr />
 
@@ -21,22 +23,22 @@ I'm always looking to **learn** something **new**. :rocket:
 
 <hr />
 
-### **Tecnologias / Technologies:** :robot:
+### Tecnologias / Technologies: :robot:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" />
 </div>
 
 <hr />
 
-![Snake animation](https://github.com/LeonardoCG12/LeonardoCG12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeonardoCG12/LeonardoCG12/blob/output/github-contribution-grid-snake-dark.svg)
