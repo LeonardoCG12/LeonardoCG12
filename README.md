@@ -16,12 +16,12 @@ I'm always looking to **Learn** something **New**. :rocket:
 
 <hr />
 
-<div>
+<!-- <div>
   <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=LeonardoCG12&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
   <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCG12&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<hr />
+<hr /> -->
 
 ### Tecnologias / Technologies: :robot:
 
